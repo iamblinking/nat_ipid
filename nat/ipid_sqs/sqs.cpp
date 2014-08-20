@@ -1,3 +1,6 @@
+/*The process of generating sqs contains get  initial sqs, merge sqs, get last sqs(discard short ones).    
+All parameters  are defined in the  top of the file*/
+
 #include <vector>
 #include <cstdio>
 #include <string>
