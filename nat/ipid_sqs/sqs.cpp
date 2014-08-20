@@ -9,6 +9,7 @@
 
 using namespace std;
 
+
 #define FNAME "ipid2.txt"
 #define MAX_LINE 1024
 #define MAX_ID 32767
